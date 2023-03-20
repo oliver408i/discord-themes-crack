@@ -24,6 +24,9 @@ Get discord nitro themes for free!
 - If you are worried that this a virus, don't worry! All source code is provided, just use a [javascript beautifier](https://beautifier.io/) to un-minify it. If you are still uncertain, please see [the explaination](explain.md).
 - There are some random not colored parts
 
+### Add your custom themes!
+Read custom-themes/suggestions.txt
+
 ### Crediting/TOS/Notice
 - I am not responsible if you get into trouble with discord, but there is literally 0 ways for discord to know as this is only a client side modification.
 - Don't repost it without my permission

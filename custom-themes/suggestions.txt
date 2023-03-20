@@ -1,0 +1,5 @@
+# Add new suggestions for new custom themes here! See https://cssgradient.io/ for a quick way to make new ones
+# Please only copy the gradient code, like this:
+# linear-gradient(0deg, rgba(165,105,0,1) 0%, rgba(78,129,116,1) 49%, rgba(34,118,195,1) 100%);
+# Python buildtool doesn't auto read this file, so I'll have to do it manually after I accept your pull request
+
