@@ -9,7 +9,7 @@ Get discord nitro themes for free!
 - One click
 
 ## How to use it?
-1. Go into nitro-themes
+1. Go into nitro-themes (for offical discord themes) or custom-themes (themes I made)
 2. Select the theme you want (open the file). You can preview themes in discord by doing settings > appearance > preview theme
 3. Copy everything in the file
 4. In chrome, click on the star icon at the right edge of the url bar (aka make a bookmark)
@@ -22,6 +22,7 @@ Get discord nitro themes for free!
 - Reload the tab to get ride of the theme, or to change to a new theme (overlaying them causes lag)
 - The code does not change your mode (light/dark) by default! You have to manually change it according to the theme you are using
 - If you are worried that this a virus, don't worry! All source code is provided, just use a [javascript beautifier](https://beautifier.io/) to un-minify it. If you are still uncertain, please see [the explaination](explain.md).
+- There are some random not colored parts
 
 ### Crediting/TOS/Notice
 - I am not responsible if you get into trouble with discord, but there is literally 0 ways for discord to know as this is only a client side modification.
