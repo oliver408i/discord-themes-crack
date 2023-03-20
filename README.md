@@ -21,3 +21,8 @@ Get discord nitro themes for free!
 - You need to click on the bookmark again if you reopen discord or reload discord
 - Reload the tab to get ride of the theme, or to change to a new theme (overlaying them causes lag)
 - The code does not change your mode (light/dark) by default! You have to manually change it according to the theme you are using
+- If you are worried that this a virus, don't worry! All source code is provided, just use a [javascript beautifier](https://beautifier.io/) to un-minify it. If you are still uncertain, please see [the explaination](explain.md).
+
+### Crediting/TOS/Notice
+- I am not responsible if you get into trouble with discord, but there is literally 0 ways for discord to know as this is only a client side modification.
+- Don't repost it without my permission
