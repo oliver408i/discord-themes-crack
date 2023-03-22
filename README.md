@@ -27,9 +27,6 @@ Get discord nitro themes for free!
 ### Add your custom themes!
 Read custom-themes/suggestions.txt
 
-## Source files
-I am providing some of the source files used to make this program. Check the `source` folder for them. Note that not all source code is included, mainly, the buildtool is not, but most of the css and some js is there.
-
 ### Crediting/TOS/Notice
 - I am not responsible if you get into trouble with discord, but there is literally 0 ways for discord to know as this is only a client side modification.
 - Don't repost it without my permission
