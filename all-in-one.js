@@ -1,0 +1,2 @@
+//IMPORTANT: Read the section on the README before you use this code
+javascript:window.webpackChunkdiscord_app.push([[Math.random()],{},e=>{const t=Object.values(e.c).find((e=>e?.exports?.default?.getUsers)),r=t.exports.default.__proto__.getCurrentUser;t.exports.default.__proto__.getCurrentUser=()=>{const e=r();return{...e,premiumType:2,__proto__:e.__proto__}}}]);

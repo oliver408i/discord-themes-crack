@@ -24,6 +24,12 @@ Get discord nitro themes for free!
 - If you are worried that this a virus, don't worry! All source code is provided, just use a [javascript beautifier](https://beautifier.io/) to un-minify it. If you are still uncertain, please see [the explaination](explain.md).
 - There are some random not colored parts
 
+## About all-in-one.js !IMPORTANT!
+The all-in-one.js is a special hack that makes your discord client think that you have nitro.   
+It is only client-side, while means that **you cannot access all nitro features, only a few**.   
+The few that works are custom themes and high streaming quality. Nothing else works, even though it seems like it does.   
+Although the original hack cannot be seen by discord, this one can be. I haven't heard of anyone's account getting terminated because of this, but I would advise you to take caution while using this hack. With that said, **it is safer and easier to use the original hack.**
+
 ### Add your custom themes!
 Read custom-themes/suggestions.txt
 
