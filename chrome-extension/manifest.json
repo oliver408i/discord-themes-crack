@@ -1,0 +1,12 @@
+{
+  "name": "Discord Theme Injector",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Chrome extension for https://github.com/oliver408i/discord-themes-crack",
+  "background": {
+    "service_worker": "sw.js"
+  },
+  "permissions": ["scripting", "webNavigation", "storage"],
+  "host_permissions": ["https://*.discord.com/*"],
+  "action": {}
+}

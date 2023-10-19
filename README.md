@@ -8,7 +8,8 @@ Get discord nitro themes for free!
 - No flashing (all of the other methods I seen does this)
 - One click
 
-## How to use it?
+## How to use it: Bookmarklet method
+This method works without extensions, but is not persistent across reloads. If you can, use the extension method below.  
 1. Go into nitro-themes (for offical discord themes) or custom-themes (themes I made)
 2. Select the theme you want (open the file). You can preview themes in discord by doing settings > appearance > preview theme
 3. Copy everything in the file
@@ -16,6 +17,17 @@ Get discord nitro themes for free!
 5. In the dialog box, click `More...`
 6. In the url box, delete everything and paste the code you copied from the file
 7. Go to your discord tab, and click on your new bookmark
+
+## How to use it: Chrome extension method
+This method is a best if you can install your own chrome extensions.  
+1. Do steps 1-3 in the Bookmarklet method
+2. Download the the repo and put the `chrome-extension` folder somewhere safe
+3. Open the `chrome-extension` folder and open `content-script.js`
+4. Paste the theme code you copied earlier in there
+5. Remove the `javascript:` at the beginning of the code (this is important)
+6. Open `chrome://extensions`
+7. Drag the `chrome-extension` folder into the tab
+8. Done! Reload your discord tab, and make sure you don't delete the `chrome-extension` folder
 
 ## Notes
 - You need to click on the bookmark again if you reopen discord or reload discord
