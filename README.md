@@ -24,7 +24,7 @@ This method is a best if you can install your own chrome extensions.
 2. Download the the repo and put the `chrome-extension` folder somewhere safe
 3. Open the `chrome-extension` folder and open `content-script.js`
 4. Paste the theme code you copied earlier in there
-5. Remove the `javascript:` at the beginning of the code (this is important)
+5. [Optional] Remove the `javascript:` at the beginning of the code
 6. Open `chrome://extensions`
 7. Drag the `chrome-extension` folder into the tab
 8. Done! Reload your discord tab, and make sure you don't delete the `chrome-extension` folder
