@@ -7,6 +7,7 @@ Get discord nitro themes for free!
 - Done in browser, one click
 - No flashing (all of the other methods I seen does this)
 - One click
+- Contains amoled theme too. Just follow the steps below
 
 ## How to use it: Bookmarklet method
 This method works without extensions, but is not persistent across reloads. If you can, use the extension method below.  
