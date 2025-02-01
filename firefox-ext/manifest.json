@@ -9,6 +9,11 @@
       "matches": ["https://*.discord.com/*"],
       "js": ["content-script.js"]
     }
-  ]
+  ],
+"browser_specific_settings": {
+    "gecko": {
+      "id": "some-name@example.org"
+    }
+  }  
 
 }
