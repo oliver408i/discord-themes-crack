@@ -10,7 +10,7 @@ Get discord nitro themes for free!
 - Contains amoled theme too. Just follow the steps below
 
 ## How to use it: Bookmarklet method
-This method works without extensions, but is not persistent across reloads. If you can, use the extension method below.  
+This method works without extensions, but is not persistent across reloads. If you can, use the userscript method below.  
 1. Go into nitro-themes (for offical discord themes) or custom-themes (themes I made)
 2. Select the theme you want (open the file). You can preview themes in discord by doing settings > appearance > preview theme
 3. Copy everything in the file
@@ -19,22 +19,17 @@ This method works without extensions, but is not persistent across reloads. If y
 6. In the url box, delete everything and paste the code you copied from the file
 7. Go to your discord tab, and click on your new bookmark
 
-## How to use it: Chrome extension method
-This method is a best if you can install your own chrome extensions.  
-1. Do steps 1-3 in the Bookmarklet method
-2. Download the the repo and put the `chrome-extension` folder somewhere safe
-3. Open the `chrome-extension` folder and open `content-script.js`
-4. Paste the theme code you copied earlier in there
-5. [Optional] Remove the `javascript:` at the beginning of the code
-6. Open `chrome://extensions`
-7. Drag the `chrome-extension` folder into the tab
-8. Done! Reload your discord tab, and make sure you don't delete the `chrome-extension` folder
+## How to use it: Userscript (recommended)
+The legacy method of using custom extensions is removed in favor of using userscripts. You'll need a userscript extension like Tampermonkey.  
+1. Download `userscript-template.js`
+2. Edit it as per the comments. Follow the previous section's steps 1-3 to get the theme code
+3. Save and load the edited .js file into your extension. For Tampermonekey, click on the icon and click dashboard. Then drag the .js file into the page.
 
 ## Notes
 - You need to click on the bookmark again if you reopen discord or reload discord
 - The code does not change your mode (light/dark) by default! You have to manually change it according to the theme you are using
 - If you are worried that this a virus, don't worry! All source code is provided, just use a [javascript beautifier](https://beautifier.io/) to un-minify it. If you are still uncertain, please see [the explaination](explain.md).
-- There are some random not colored parts
+- ~~There are some random not colored parts~~ should be fixed now
 
 ## About all-in-one.js !IMPORTANT!
 The all-in-one.js is a special hack that makes your discord client think that you have nitro.   
